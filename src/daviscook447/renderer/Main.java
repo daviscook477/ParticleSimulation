@@ -55,6 +55,7 @@ public class Main {
 		ParticleSystem particleSystem = new ParticleSystem();
 		
 		Vector2D drawOffset = new Vector2D(0,0);
+		@SuppressWarnings("serial")
 		JPanel panel = new JPanel() {
 			@Override
 			public void paintComponent(Graphics g) {

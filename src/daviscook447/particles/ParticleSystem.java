@@ -2,7 +2,6 @@ package daviscook447.particles;
 
 import java.awt.Graphics2D;
 import java.util.ArrayList;
-import java.util.Random;
 
 import daviscook447.vectors.PointCharge;
 import daviscook447.vectors.PointChargeField;
